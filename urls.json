@@ -1,0 +1,11 @@
+{
+  "/": {
+    "method": ["GET"]
+  },
+  "/index": {
+    "method": ["GET"]
+  },
+  "/link": {
+    "method": ["GET"]
+  }
+}
